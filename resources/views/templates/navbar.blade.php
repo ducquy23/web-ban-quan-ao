@@ -54,8 +54,6 @@
             Giang
         </span>
             </a>
-
-
             <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-right" style="left: inherit; right: 0px;">
 
 
@@ -65,12 +63,6 @@
                         Giang
                     </p>
                 </li>
-
-
-
-
-
-
                 <li class="user-footer">
                     <a href="http://127.0.0.1:8000/1" class="btn btn-default btn-flat">
                         <i class="fa fa-fw fa-user text-lightblue"></i>
